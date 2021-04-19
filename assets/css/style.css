@@ -1,0 +1,35 @@
+.avatar{
+    width: 200px;
+}
+
+.color1 {
+    background-color: #1C110A;
+}
+.color2 {
+    background-color: #E4D6A7;
+}
+.color3 {
+    background-color: #E9B44C;
+}
+.color4 {
+    background-color: #9B2915;
+}
+.color5 {
+    background-color: #50A2A7;
+}
+
+.text3{
+    color: #9B2915;
+    font-size: 1.5rem;
+}
+
+.text4{
+    color: #1C110A;
+    font-size: 2.5rem;
+}
+
+.heading{
+    font-size: 2.75rem;
+    line-height: 2.75rem;
+}
+
